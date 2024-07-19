@@ -81,10 +81,7 @@ namespace assignment4
 
             #region question 1
 
-            Circle circle = new Circle(10);
-            Rectangle rectangle = new Rectangle(10, 5);
-            circle.DisplayShapeInfo();
-            rectangle.DisplayShapeInfo();
+
 
 
             #endregion
